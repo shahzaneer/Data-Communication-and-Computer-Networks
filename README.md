@@ -1,0 +1,2 @@
+# Computer Networks
+![Data-Communication-and-Computer-Networks](https://socialify.git.ci/shahzaneer/Data-Communication-and-Computer-Networks/image?description=1&descriptionEditable=%20It%20includes%20network%20models%2C%20transmission%20media%2C%20network%20topologies%2C%20and%20routing%20algorithms.%20Understand%20the%20concepts%20of%20network%20security%2C%20network%20performance%2C%20and%20quality%20of%20service&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
